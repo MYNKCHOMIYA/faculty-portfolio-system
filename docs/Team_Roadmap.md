@@ -42,7 +42,7 @@ To build the system effectively, here is exactly what each team member MUST know
 ### 👩‍💻 Frontend: Manan Garg
 **Role Focus**: Transforming API data into a beautiful, interactive user experience.
 
-*   **HTML, CSS, JavaScript (ES6)**: Core web fundamentals. 
+*   **HTML, CSS, JavaScript (ES6)**: Core web fundamentals.
     *   *Where used*: Foundational code in `frontend/src/`.
 *   **React.js (and Hooks like `useState`, `useEffect`)**:
     *   *Where used*: Entire `frontend/` application. Creating dynamic forms, rendering lists of publications without reloading the page.
